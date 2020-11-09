@@ -1,3 +1,16 @@
+# Projeto Blog em Laravel 8
+
+_COMANDOS INICIAIS_
+<ul>
+<li>composer create-project --prefer-dist laravel/laravel blog-l8</li>
+<li>git init</li>
+<li>git add . </li>
+<li>git commit -m "first commit"</li>
+<li>git branch -M main</li>
+<li>git remote add origin https://github.com/salubcosta/blog-l8.git</li>
+<li>git push -u origin main</li>
+</ul>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
